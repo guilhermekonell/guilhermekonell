@@ -12,15 +12,16 @@ Facilidade com a comunicação, dinâmico e ágil na resolução de problemas e 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Linguagens
 
-![Java Badge](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java-colorful)
-![JavaScript Badge](https://img.shields.io/badge/Javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Java Badge](https://badges.aleen42.com/src/java.svg)
+![JavaScript Badge](https://badges.aleen42.com/src/javascript.svg)
+![TypeScript Badge](https://badges.aleen42.com/src/typescript.svg)
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Frameworks
 
 ![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?&logo=spring&logoColor=white&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat)
+![Node.js Badge](https://badges.aleen42.com/src/node.svg)
+![React Badge](https://badges.aleen42.com/src/react.svg)
+![Angular Badge](https://badges.aleen42.com/src/angular.svg)
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Base de dados
 
